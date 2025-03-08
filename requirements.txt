@@ -6,3 +6,6 @@ cartopy
 xarray
 colorcet
 seaborn
+streamlit
+plotly
+yfinance
