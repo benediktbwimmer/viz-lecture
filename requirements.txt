@@ -2,3 +2,7 @@ jupyter
 matplotlib
 pandas
 numpy
+cartopy
+xarray
+colorcet
+seaborn
