@@ -57,12 +57,6 @@ cd stage1
 jupyter notebook
 ```
 
-or execute a python script to save the plots, e.g.:
-
-```
-cd stage1
-python temperature_plot.py
-```
 
 To run the Streamlit apps e.g.:
 
