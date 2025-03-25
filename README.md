@@ -8,8 +8,6 @@ Contains a jupyter notebook showcasing:
 
 - A global annual temperature averages plot loaded from a .csv file
 
-- An earthquake magnitude plot of the last 24 hours, dynamically fetching the data from an API
-
 ### Stage 2
 
 Contains a jupyter notebook showcasing:
