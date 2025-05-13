@@ -10,7 +10,7 @@ You entered: 2025-05-13
 $ python date_cli_example.py -d "13/05/2025"
 You entered: 2025-05-13
 
-The script uses :pymod:`argparse` for argument parsing and :pymod:`python-dateutil`
+The script uses `argparse` for argument parsing and `python-dateutil`
 (install via ``pip install python-dateutil``) for flexible date parsing.
 """
 
