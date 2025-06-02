@@ -1,0 +1,27 @@
+body{
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 2rem;
+  background: #fafafa;
+  color: #222;
+}
+h1{
+  margin-top: 0;
+}
+#chart{
+  max-width: 960px;
+}
+.legend{
+  font-size: 0.8rem;
+}
+.running-average,
+.zero-line{
+  pointer-events: none;
+}
+.zoom-rect{
+  cursor: ew-resize;
+}
+.zero-line{
+  stroke: #666;
+  shape-rendering: crispEdges;
+}
